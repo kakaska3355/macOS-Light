@@ -1,1 +1,1 @@
-# macOS-Light
+# macOS Light
